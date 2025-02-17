@@ -1,0 +1,9 @@
+﻿HasMaxLengthExtension
+HasMinLengthExtension
+MatchesExtension (codigo postal de 5 digitos => expresiones regulares)
+GreaterThanExtension ( mayor que 0)
+GreaterThanOrEqualToExtension ( mayor o igual que 5)
+EqualExtensions (ProductID = 0 or password = confirmpasword, que ten)
+EmailAddressExtensions (formato de correo ellectronico)
+NotEmptyExtensions (no colecciones vacias)
+MustExtension (Por ejemplo, el password debe tener una regla, el password al menos un digito)
