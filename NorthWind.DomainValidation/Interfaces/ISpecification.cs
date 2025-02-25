@@ -1,11 +1,4 @@
-﻿using NorthWind.DomainValidation.ValueObjects;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NorthWind.DomainValidation.Interfaces
+﻿namespace NorthWind.DomainValidation.Interfaces
 {
     // una entidad cumple la validación de una entidad o no
 

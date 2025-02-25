@@ -117,8 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="EmailAddress" xml:space="preserve">
+    <value>El formato de correo electrónico es inválido.</value>
+  </data>
+  <data name="Equal" xml:space="preserve">
+    <value>Los valores no son iguales.</value>
+  </data>
+  <data name="GreaterThan" xml:space="preserve">
+    <value>El dato debe ser mayor a {0}.</value>
+  </data>
+  <data name="GreaterThanOrEqual" xml:space="preserve">
+    <value>El dato debe ser mayor o igual a {0}.</value>
+  </data>
   <data name="HasFixedLength" xml:space="preserve">
     <value>Se requieren {0} caracteres.</value>
+  </data>
+  <data name="HasMaxLength" xml:space="preserve">
+    <value>La longitud máxima es de {0} caracteres. </value>
+  </data>
+  <data name="HasMinLength" xml:space="preserve">
+    <value>La longitud mínima es de {0} caracteres.</value>
   </data>
   <data name="IsRequired" xml:space="preserve">
     <value>Este dato es requerido.</value>

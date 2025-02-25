@@ -100,3 +100,4 @@ C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation.Tests\obj\Debug
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation.Tests\obj\Debug\net9.0\NorthWind.DomainValidation.Tests.pdb
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation.Tests\obj\Debug\net9.0\NorthWind.DomainValidation.Tests.genruntimeconfig.cache
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation.Tests\obj\Debug\net9.0\ref\NorthWind.DomainValidation.Tests.dll
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation.Tests\obj\Debug\net9.0\NorthWind.DomainValidation.Tests.sourcelink.json

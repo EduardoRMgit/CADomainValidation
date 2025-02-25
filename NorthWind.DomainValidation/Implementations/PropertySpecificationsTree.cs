@@ -1,13 +1,4 @@
-﻿using NorthWind.DomainValidation.Extensions;
-using NorthWind.DomainValidation.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NorthWind.DomainValidation.Implementations
+﻿namespace NorthWind.DomainValidation.Implementations
 {
 
     // Necesito que me pasen la propiedad, no solo el nombre => CreateOrder.CustomerID
@@ -31,8 +22,8 @@ namespace NorthWind.DomainValidation.Implementations
     // la expresión también me sirve para obtener el nombre de la variable.
 
     public class PropertySpecificationsTree<T, TProperty>(
-        Expression<Func<T,TProperty>> propertyExpression,
-        bool stopInFirstError = false) : 
+        Expression<Func<T, TProperty>> propertyExpression,
+        bool stopInFirstError = false) :
         IPropertySpecificationsTree<T>
     {
 

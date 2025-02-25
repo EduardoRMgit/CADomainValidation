@@ -1,15 +1,4 @@
-﻿using NorthWind.DomainValidation.Helpers;
-using NorthWind.DomainValidation.Implementations;
-using NorthWind.DomainValidation.Resources;
-using NorthWind.DomainValidation.ValueObjects;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace NorthWind.DomainValidation.PropertySpecificationTreeExtensions
+﻿namespace NorthWind.DomainValidation.PropertySpecificationTreeExtensions
 {
     public static class IsRequiredExtension
     {
@@ -30,7 +19,7 @@ namespace NorthWind.DomainValidation.PropertySpecificationTreeExtensions
                 }
             })));
 
-                // Retornar verdadero si no hay errores, falso si hay errores
+            // Retornar verdadero si no hay errores, falso si hay errores
             // Retornar el mismo árbol para permitir encadenamiento
             return tree;
         }

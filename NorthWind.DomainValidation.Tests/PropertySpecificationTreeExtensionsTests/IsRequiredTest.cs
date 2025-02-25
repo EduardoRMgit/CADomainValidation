@@ -1,16 +1,4 @@
-﻿using NorthWind.DomainValidation.Implementations;
-using NorthWind.DomainValidation.PropertySpecificationTreeExtensions;
-using NorthWind.DomainValidation.Resources;
-using NorthWind.DomainValidation.Tests.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit.Sdk;
-
-namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTests
+﻿namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTests
 {
     public class IsRequiredTest
     {
@@ -29,7 +17,7 @@ namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTe
             // Arrange
             var Tree = new PropertySpecificationsTree<CreateOrder, string>(PropertyExpression);
             Tree.IsRequired();
-            var Entity = new CreateOrder { CustomerId = customerId }; 
+            var Entity = new CreateOrder { CustomerId = customerId };
 
             // Act
             bool Result = Tree.Specifications[0].IsSatisfiedBy(Entity);
@@ -38,7 +26,7 @@ namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTe
             // Assert
             Assert.Equal(expectedResult, Result);
 
-            if(expectedResult)
+            if (expectedResult)
             {
                 Assert.True(Tree.Specifications[0].Errors == null ||
                     !Tree.Specifications[0].Errors.Any());
@@ -55,11 +43,11 @@ namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTe
         [Fact]
         public void IsRequired_ShouldUseProvidedErrorMessage_WhenValidationFails()
         {
-                        // Arrange
+            // Arrange
             var Tree = new PropertySpecificationsTree<CreateOrder, string>(PropertyExpression);
             string ExpectedErrorMessage = "Dato requerido";
             Tree.IsRequired(ExpectedErrorMessage);
-            var Entity = new CreateOrder { CustomerId = null }; 
+            var Entity = new CreateOrder { CustomerId = null };
 
             // Act
             bool Result = Tree.Specifications[0].IsSatisfiedBy(Entity);

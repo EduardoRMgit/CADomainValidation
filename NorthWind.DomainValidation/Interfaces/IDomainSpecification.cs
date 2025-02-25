@@ -1,11 +1,4 @@
-﻿using NorthWind.DomainValidation.ValueObjects;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NorthWind.DomainValidation.Interfaces
+﻿namespace NorthWind.DomainValidation.Interfaces
 {
     public interface IDomainSpecification<T>
     {
@@ -22,7 +15,7 @@ namespace NorthWind.DomainValidation.Interfaces
         // el valor de esta propiedad, si esta en true, se termina la validación, y si no, continua y continua.
 
         // ES A NIVEL DE ESPECIFICACIÓN.
-        bool stopOnFirstError { get; } // fallar o deternar si una regla falla
+        bool StopOnFirstError { get; } // fallar o deternar si una regla falla
 
 
         IEnumerable<SpecificationError> Errors { get; } // si encuentra errores ahí los devuelve

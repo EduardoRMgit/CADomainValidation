@@ -1,18 +1,6 @@
-﻿using NorthWind.DomainValidation.Implementations;
-using NorthWind.DomainValidation.PropertySpecificationTreeExtensions;
-using NorthWind.DomainValidation.Resources;
-using NorthWind.DomainValidation.Tests.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit.Sdk;
-
-namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTests
+﻿namespace NorthWind.DomainValidation.Tests.PropertySpecificationTreeExtensionsTests
 {
-    public class HasFixedLengthTests
+    public class HasFixedLengthTest
     {
 
         static Expression<Func<CreateOrder, string>> PropertyExpression =

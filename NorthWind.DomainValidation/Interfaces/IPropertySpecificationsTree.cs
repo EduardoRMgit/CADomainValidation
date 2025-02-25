@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NorthWind.DomainValidation.Interfaces
+﻿namespace NorthWind.DomainValidation.Interfaces
 {
     // VA A TENER LAS ESPECIFICACIONES DEL A PROPIEDAD
     // arbol de especificaciones de la propiedad.

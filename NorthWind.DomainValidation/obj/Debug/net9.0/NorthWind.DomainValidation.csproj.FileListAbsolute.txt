@@ -11,3 +11,4 @@ C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Debug\net9.
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Debug\net9.0\ref\NorthWind.DomainValidation.dll
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Debug\net9.0\NorthWind.DomainValidation.Resources.ErrorMessages.resources
 C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Debug\net9.0\NorthWind.DomainValidation.csproj.GenerateResource.cache
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Debug\net9.0\NorthWind.DomainValidation.sourcelink.json

@@ -6,25 +6,17 @@ using System.Threading.Tasks;
 
 namespace NorthWind.DomainValidation.ValueObjects
 {
-    public class ValidationResult(IEnumerable<SpecificationError> errors)
+    public class ValidationResult
     {
+        private readonly IEnumerable<SpecificationError> _errors;
 
-        // la función del validador es ver que todas las especificaciones se cumpla, y sino, me vaa devolver los erroes en la conexión de errores.
-        // va a ser la colección de cada uno de los errores de cada especificación.
+        public ValidationResult(IEnumerable<SpecificationError> errors)
+        {
+            _errors = errors ?? Enumerable.Empty<SpecificationError>(); // Evita null
+        }
 
-        // la especificación valida algo y cuimple el validation result va a tener la consiladación de todas las posibles .
+        public bool IsValid => !_errors.Any(); // Si no hay errores, es válido
 
-        // para ayudarme para ver si es valido  o no
-        // es sencillo para ver si hay errores o no en Erros
-
-        // null  conditional. => verifica si es nul, si no es nulo, hace el resto, si es null
-
-        // checar esto.
-        public bool isValid => errors?.Any() != true;
-
-
-
-
-        public IEnumerable<SpecificationError> Errors => errors;
+        public IEnumerable<SpecificationError> Errors => _errors;
     }
 }
