@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Resources\ErrorMessages.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -19,5 +23,15 @@
       <LastGenOutput>ErrorMessages.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+
+  <PropertyGroup>
+    <PackageId>NorthWind.DomainValidation</PackageId>
+    <Version>1.0.0</Version>
+      <Authors>Miguel Muñoz Serafín</Authors>
+      <Company>NorthWind</Company>
+      <Description>Validación de especificaciones de dominio.</Description>
+    <PackageOutputPath>c:/introca/NorthWindPackages</PackageOutputPath>
+
+  </PropertyGroup>
 
 </Project>

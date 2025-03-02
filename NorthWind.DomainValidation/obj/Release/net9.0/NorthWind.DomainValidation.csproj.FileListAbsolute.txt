@@ -1,0 +1,15 @@
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\bin\Release\net9.0\NorthWind.DomainValidation.deps.json
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\bin\Release\net9.0\NorthWind.DomainValidation.dll
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\bin\Release\net9.0\NorthWind.DomainValidation.pdb
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.csproj.AssemblyReference.cache
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.Resources.ErrorMessages.resources
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.csproj.GenerateResource.cache
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.AssemblyInfo.cs
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.csproj.CoreCompileInputs.cache
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.sourcelink.json
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.dll
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\refint\NorthWind.DomainValidation.dll
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\NorthWind.DomainValidation.pdb
+C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\obj\Release\net9.0\ref\NorthWind.DomainValidation.dll

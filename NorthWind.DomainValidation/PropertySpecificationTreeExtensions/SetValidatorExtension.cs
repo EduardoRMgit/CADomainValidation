@@ -8,6 +8,11 @@ namespace NorthWind.DomainValidation.PropertySpecificationTreeExtensions
 {
     public static class SetValidatorExtension
     {
+
+        // validación en colecciones de elementos, para una propiedad de tipo colección,
+        // queremos indicarle, que valide cada elemento de la colección utilizando un IDomainSpecification
+        // validator.
+
         // tipo de los elementos de la colección.
         public static PropertySpecificationsTree<T, IEnumerable<TElement>>
             SetValidator<T, TElement>(
@@ -34,8 +39,8 @@ namespace NorthWind.DomainValidation.PropertySpecificationTreeExtensions
                                     Error.ErrorMessage
                                     ));
                             }
-                            i++;
                         }
+                        i++;
                     }
                 }
             })));

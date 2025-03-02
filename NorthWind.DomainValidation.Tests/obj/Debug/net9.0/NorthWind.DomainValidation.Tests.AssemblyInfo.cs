@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.DomainValidation.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d348a5be9b26dbbe0b404f5395ddbb1532af174")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfa733d6558440881d4b08db7b0677090e1ad653")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.DomainValidation.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.DomainValidation.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

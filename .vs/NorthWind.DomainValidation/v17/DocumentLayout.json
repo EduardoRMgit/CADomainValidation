@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\introCA\\NorthWind.DomainValidation\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\propertyspecificationtreeextensions\\setvalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\propertyspecificationtreeextensions\\setvalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\propertyspecificationtreeextensions\\emailaddressextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\propertyspecificationtreeextensions\\emailaddressextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 984,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,45 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateOrderDetailSpecification.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:21:24.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SetValidatorExtension.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:16:30.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmailAddressExtension.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:11:23.707Z",
-              "EditorCaption": ""
             }
           ]
         },

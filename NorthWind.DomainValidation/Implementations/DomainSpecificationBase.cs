@@ -14,6 +14,9 @@
 
         public IEnumerable<SpecificationError> Errors { get; protected set; }
 
+        List<IPropertySpecificationsTree<T>> PropertySpecificationsForest = [];
+
+
         public async Task<bool> ValidateAsync(T entity)
         {
             // DEBE TENER LA LISTA DE ERRORES
@@ -27,8 +30,6 @@
         protected virtual Task<List<SpecificationError>> ValidateSpecificationAsync(T entity)
         {
             // valida las especificaciones, pero no permite contra db o algo así, eso es otro asunto.
-
-
             // for each => trees
                 // for each => specifications
 
@@ -45,8 +46,6 @@
                 // ENUMERADOR DE ESPECIFICACIONES DEL ÁRBOL ACTUAL
                 var TreeSpecificationEnumerator = TreesEnumerator.Current.Specifications.GetEnumerator();
                 bool ContinueValidatingTreeSpecifications = true;
-
-
                 // árbolito, detente cuando te dijeron que te detengas en el primer error del árbol, enciende tu bandera de que ya terminaste
                 while(TreeSpecificationEnumerator.MoveNext() && ContinueValidatingTreeSpecifications)
                 {
@@ -63,20 +62,14 @@
                             ContinueValidatingTreeSpecifications = false;
                     }
                 }
-
                 // detener cuando haya error y me tenga que detener en el primer error.
                 // vas a validar el otro arbolito dependiendo de la bandera.
                 if (SpecificationErrors.Count != 0 && StopOnFirstError)
                     ContinueValidatingTrees = false;
-
-
-
             }
             return Task.FromResult(SpecificationErrors);
-
         }
 
-        List<IPropertySpecificationsTree<T>> PropertySpecificationsForest = [];
 
 
         // Property(c => C.CustomerId).IsRequired();

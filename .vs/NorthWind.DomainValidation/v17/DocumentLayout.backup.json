@@ -3,16 +3,148 @@
   "WorkspaceRootPath": "C:\\introCA\\NorthWind.DomainValidation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\domainspecificationsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\domainspecificationsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\conditionalspecificationa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\implementations\\domainspecificationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\implementations\\domainspecificationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\interfaces\\idomainspecificationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\interfaces\\idomainspecificationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationtest\\propertystoponfirsterrortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationtest\\propertystoponfirsterrortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationtest\\specificationstoponfirsterrortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationtest\\specificationstoponfirsterrortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\models\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\models\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\models\\createorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\models\\createorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\emailaddresstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\emailaddresstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\greaterthantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\greaterthantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\greaterthanorequaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\greaterthanorequaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\specificationtest\\specificationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\specificationtest\\specificationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\propertyspecificationtreeextensions\\setvalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\propertyspecificationtreeextensions\\setvalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\propertyspecificationtreeextensions\\emailaddressextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\propertyspecificationtreeextensions\\emailaddressextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\implementations\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\implementations\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\implementations\\propertyspecificationstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\implementations\\propertyspecificationstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\implementations\\domainspecificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\implementations\\domainspecificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\interfaces\\idomainspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\interfaces\\idomainspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecifications\\propertywithstopinfirsterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecifications\\propertywithstopinfirsterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecifications\\propertywithoutstopinfirsterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecifications\\propertywithoutstopinfirsterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\interfaces\\ipropertyspecificationstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\interfaces\\ipropertyspecificationstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\unconditionalspecificationa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\domainspecificationsvalidatortests\\unconditionalspecificationa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\setvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\setvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\createorderspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\createorderspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\createorderdetailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\setvalidatortests\\setvalidatortestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\setvalidatortests\\setvalidatortestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\isrequiredtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\isrequiredtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|c:\\introca\\northwind.domainvalidation\\northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\hasmaxlengthtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA6F36-27DF-4E4E-BF2E-7B71A5588CEA}|NorthWind.DomainValidation.Tests\\NorthWind.DomainValidation.Tests.csproj|solutionrelative:northwind.domainvalidation.tests\\propertyspecificationtreeextensionstests\\hasmaxlengthtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|C:\\introCA\\NorthWind.DomainValidation\\northwind.domainvalidation\\resources\\errormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D6E6DBC9-3021-4EE5-8EF7-C80C16F09969}|NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj|solutionrelative:northwind.domainvalidation\\resources\\errormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 984,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,42 +178,452 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateOrderDetailSpecification.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DomainSpecificationBase.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\DomainSpecificationBase.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Implementations\\DomainSpecificationBase.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\DomainSpecificationBase.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Implementations\\DomainSpecificationBase.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwE4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:21:24.449Z",
+              "WhenOpened": "2025-02-26T02:52:59.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SetValidatorExtension.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ConditionalSpecificationA.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationA.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationA.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationA.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:16:30.838Z",
+              "WhenOpened": "2025-02-26T02:37:51.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmailAddressExtension.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "RelativeToolTip": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\EmailAddressExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Title": "ConditionalSpecificationB.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationB.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationB.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationB.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:11:23.707Z",
+              "WhenOpened": "2025-02-26T02:43:37.443Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConditionalSpecificationC.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationC.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationC.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationC.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\ConditionalSpecificationC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:43:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainSpecificationsValidatorTests.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\DomainSpecificationsValidatorTests.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\DomainSpecificationsValidatorTests.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\DomainSpecificationsValidatorTests.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\DomainSpecificationsValidatorTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:43:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDomainSpecificationsValidator.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IDomainSpecificationsValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Interfaces\\IDomainSpecificationsValidator.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IDomainSpecificationsValidator.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Interfaces\\IDomainSpecificationsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:10:31.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyStopOnFirstErrorTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\PropertyStopOnFirstErrorTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\PropertyStopOnFirstErrorTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\PropertyStopOnFirstErrorTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\PropertyStopOnFirstErrorTest.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:37:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpecificationStopOnFirstErrorTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\SpecificationStopOnFirstErrorTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\SpecificationStopOnFirstErrorTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\SpecificationStopOnFirstErrorTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationTest\\SpecificationStopOnFirstErrorTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:26:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\Models\\CreateOrder.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\CreateOrder.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\Models\\CreateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:20:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\Models\\PizzaSpecial.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\PizzaSpecial.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\Models\\PizzaSpecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderDetail.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\CreateOrderDetail.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\Models\\CreateOrderDetail.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\CreateOrderDetail.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\Models\\CreateOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:20:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailAddressTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\EmailAddressTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\EmailAddressTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\EmailAddressTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\EmailAddressTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:51:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GreaterThanTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:51:04.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GreaterThanOrEqualTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanOrEqualTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanOrEqualTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanOrEqualTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\GreaterThanOrEqualTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:49:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\Models\\User.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\User.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\Models\\UserRegistration.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\Models\\UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpecificationTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SpecificationTest\\SpecificationTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SpecificationTest\\SpecificationTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SpecificationTest\\SpecificationTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SpecificationTest\\SpecificationTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:25:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetValidatorExtension.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\PropertySpecificationTreeExtensions\\SetValidatorExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:50:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DomainSpecificationValidator.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\DomainSpecificationValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Implementations\\DomainSpecificationValidator.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\DomainSpecificationValidator.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Implementations\\DomainSpecificationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:52:55.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDomainSpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IDomainSpecification.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Interfaces\\IDomainSpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IDomainSpecification.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Interfaces\\IDomainSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:21:03.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PropertySpecificationsTree.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\PropertySpecificationsTree.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Implementations\\PropertySpecificationsTree.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\PropertySpecificationsTree.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Implementations\\PropertySpecificationsTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:52:56.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Specification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\Specification.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Implementations\\Specification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Implementations\\Specification.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Implementations\\Specification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:13:28.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PropertyWithStopInFirstError.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithStopInFirstError.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithStopInFirstError.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithStopInFirstError.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithStopInFirstError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:45.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PropertyWithoutStopInFirstError.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithoutStopInFirstError.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithoutStopInFirstError.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithoutStopInFirstError.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecifications\\PropertyWithoutStopInFirstError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\ISpecification.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Interfaces\\ISpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\ISpecification.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Interfaces\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:04:33.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPropertySpecificationsTree.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IPropertySpecificationsTree.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Interfaces\\IPropertySpecificationsTree.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Interfaces\\IPropertySpecificationsTree.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Interfaces\\IPropertySpecificationsTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:04:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\GlobalUsings.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\GlobalUsings.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:00:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:00:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnconditionalSpecificationA.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\UnconditionalSpecificationA.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\UnconditionalSpecificationA.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\UnconditionalSpecificationA.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\DomainSpecificationsValidatorTests\\UnconditionalSpecificationA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:11:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SetValidatorTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:00:39.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateOrderSpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderSpecification.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderSpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderSpecification.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:00:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateOrderDetailSpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\CreateOrderDetailSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:00:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SetValidatorTestData.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTestData.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTestData.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTestData.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\SetValidatorTests\\SetValidatorTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:04:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IsRequiredTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\IsRequiredTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\IsRequiredTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\IsRequiredTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\IsRequiredTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:51:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HasMaxLengthTest.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\HasMaxLengthTest.cs",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\HasMaxLengthTest.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\HasMaxLengthTest.cs",
+              "RelativeToolTip": "NorthWind.DomainValidation.Tests\\PropertySpecificationTreeExtensionsTests\\HasMaxLengthTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:51:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorMessages.resx",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Resources\\ErrorMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.DomainValidation\\Resources\\ErrorMessages.resx",
+              "ToolTip": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\Resources\\ErrorMessages.resx",
+              "RelativeToolTip": "NorthWind.DomainValidation\\Resources\\ErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T02:49:35.147Z"
             }
           ]
         },

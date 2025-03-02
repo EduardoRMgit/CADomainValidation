@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NorthWind.DomainValidation</id>
+    <version>1.0.0</version>
+    <authors>Miguel Muñoz Serafín</authors>
+    <description>Validación de especificaciones de dominio.</description>
+    <repository type="git" commit="bfa733d6558440881d4b08db7b0677090e1ad653" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="9.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\introCA\NorthWind.DomainValidation\NorthWind.DomainValidation\bin\Release\net9.0\NorthWind.DomainValidation.dll" target="lib\net9.0\NorthWind.DomainValidation.dll" />
+  </files>
+</package>

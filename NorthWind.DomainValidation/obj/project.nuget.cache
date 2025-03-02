@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/UF3H8Oug6w=",
+  "dgSpecHash": "5rZjiuVhmMM=",
   "success": true,
   "projectFilePath": "C:\\introCA\\NorthWind.DomainValidation\\NorthWind.DomainValidation\\NorthWind.DomainValidation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -131,5 +131,14 @@ namespace NorthWind.DomainValidation.Resources {
                 return ResourceManager.GetString("IsRequired", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Valor requerido..
+        /// </summary>
+        public static string NotEmpty {
+            get {
+                return ResourceManager.GetString("NotEmpty", resourceCulture);
+            }
+        }
     }
 }

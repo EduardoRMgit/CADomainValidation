@@ -141,4 +141,7 @@
   <data name="IsRequired" xml:space="preserve">
     <value>Este dato es requerido.</value>
   </data>
+  <data name="NotEmpty" xml:space="preserve">
+    <value>Valor requerido.</value>
+  </data>
 </root>
